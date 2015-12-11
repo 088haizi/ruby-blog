@@ -10,6 +10,7 @@ gem 'jquery-rails', '4.0.5'
 gem 'turbolinks', '2.5.3'
 gem 'jbuilder', '2.3.2'
 gem 'sdoc', '0.4.1', group: :doc
+gem 'thin'
 
 group :development, :test do
   gem 'byebug', '6.0.2'
